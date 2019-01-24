@@ -5,10 +5,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RobinLebhar/Graphql-Movie"
+    "url": "https://github.com/anhe225/testvaudranmovie"
   },
   "scripts": {
-    "dev": "nodemon index.js --ignore client"
+    "dev": "nodemon index.js --ignore client",
+    "build": "mpm run build-server"
   },
   "author": "",
   "license": "ISC",

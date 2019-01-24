@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../server/models/index.js"],"names":["require"],"mappings":";;AAAAA,QAAQ,SAAR;AACAA,QAAQ,UAAR","file":"index.js","sourcesContent":["require('./movie');\r\nrequire('./review');\r\n"]}
